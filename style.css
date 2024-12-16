@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: Figtree;
-    src: url(/blog-preview-card-main/assets/fonts/Figtree-VariableFont_wght.ttf);
+    src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: Figtree-italic;
-    src: url(/blog-preview-card-main/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+    src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
 }
 :root{
     --bd-font-family: Figtree;
